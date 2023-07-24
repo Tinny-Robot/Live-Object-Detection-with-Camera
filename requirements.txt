@@ -1,0 +1,3 @@
+opencv-python>=4.5.3
+supervision>=0.5.1
+ultralytics>=2.6.3
