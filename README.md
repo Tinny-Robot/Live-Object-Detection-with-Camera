@@ -1,5 +1,6 @@
 # Live-Object-Detection-with-Camera
-Real-time object detection using YOLO model and OpenCV on live camera feed.
+
+Real-time object detection using **YOLO model** and OpenCV on live camera feed.
 
 ![Demo](https://user-images.githubusercontent.com/26833433/243418624-5785cb93-74c9-4541-9179-d5c6782d491a.png)
 
