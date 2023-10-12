@@ -8,6 +8,7 @@ Real-time object detection using **YOLO model** and OpenCV on live camera feed.
 The "Live Object Detection with YOLO and OpenCV" project is a real-time object detection system that utilizes the YOLO (You Only Look Once) model and the OpenCV library to perform live object detection on a camera feed. This project aims to showcase the potential of real-time object detection and inspire developers, researchers, and hobbyists to explore the exciting world of computer vision applications.
 
 **Main Objectives:**
+
 - Real-Time Object Detection: Detect and identify various objects in a live video stream in real-time.
 - YOLO Model Integration: Utilize the speed and accuracy of the YOLO model for efficient object detection.
 - OpenCV Visualization: Visualize the detected objects with bounding box annotations using OpenCV.
@@ -49,3 +50,6 @@ I would like to acknowledge the contributions of the open-source community, the 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+Thank You 
+-Tinny Robot
