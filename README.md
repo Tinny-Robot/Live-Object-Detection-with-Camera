@@ -27,7 +27,7 @@ To get started with the project, follow the installation and setup instructions 
 2. Run the Jupyter notebook "demo.ipynb" to start the live object detection demo.
 3. Your webcam or connected camera will display a live video stream with object detection annotations.
 4. Press the 'q' key to stop the program and close the video window.
-
+5. or **you can run app.py file directly just make sure that yolov8n.pt file path is currently mentioned.To stop the program hit ctrl+C**
 ## Customization Options
 The project allows you to customize various aspects of the live object detection system:
 - Adjust the confidence threshold for object detection.
